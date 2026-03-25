@@ -53,6 +53,6 @@ Open to collaborations and freelance work.
 ## 📬 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-kenkao05-181717?style=flat-square&logo=github)](https://github.com/kenkao05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kenkao05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhanzala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ClickHere-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhanzala)
 
 > Feel free to open an issue on any repo or reach out via GitHub!
