@@ -1,6 +1,19 @@
-# Hi, I'm kenkao05 👋
+<div align="center">
 
-I'm a Computer Engineering student at **Gujarat Technological University, Ahmedabad** — building full-stack web apps, experimenting with local AI, and diving deep into agentic systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=full-stack+engineer;AI+%2F+ML+builder;agentic+systems+enthusiast" alt="Typing SVG" />
+
+# Harshvardhan Zala &nbsp;`⟨ kenkao05 ⟩`
+
+*"Change is the only constant in life."*
+
+[![GitHub followers](https://img.shields.io/github/followers/kenkao05?style=flat-square&color=6366F1&labelColor=1e1e2e&label=followers)](https://github.com/kenkao05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-6366F1?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e1e2e)](https://linkedin.com/in/harshvardhanzala)
+
+</div>
+
+---
+
+Computer Engineering student at **Gujarat Technological University, Ahmedabad** — building full-stack web apps, experimenting with local AI, and diving deep into agentic systems.
 
 Open to collaborations and freelance work.
 
@@ -11,9 +24,8 @@ Open to collaborations and freelance work.
 | Project | Description | Stack |
 |---|---|---|
 | [**BharatYatra**](https://github.com/kenkao05/bharatyatra) | Full-stack travel-discovery platform for India — itinerary planner, cultural events, medical tourism finder, and a secure admin panel | HTML, CSS, JS, Supabase, Vercel |
-| [**convertio**](https://github.com/kenkao05/convertio) | Locally-run file converter for quick format changes — no uploads, no internet required | Python |
+| [**brochure-extractor**](https://github.com/kenkao05/brochure-extractor) | AI pipeline that ingests product catalogue PDFs and outputs structured Excel files — CNN page classifier filters noise, LLM extracts specs into dynamic columns | Python, TensorFlow, Flask, Groq |
 | [**gmail-agent**](https://github.com/kenkao05/gmail-agent) | Local Gmail triage agent that classifies emails using Ollama | JavaScript, Ollama |
-| [**qwenbot**](https://github.com/kenkao05/qwenbot) | Local-first AI chat assistant powered by Ollama | JavaScript, Ollama |
 | [**greenenergy**](https://github.com/kenkao05/greenenergy) | ML project to analyze and predict global renewable energy adoption patterns using clustering algorithms | HTML, Python |
 
 ---
@@ -33,12 +45,15 @@ Open to collaborations and freelance work.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Currently Learning**
 
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Systems-6366F1?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-10B981?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=flat-square)
 
 ---
 
